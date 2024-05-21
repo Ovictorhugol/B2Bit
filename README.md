@@ -15,6 +15,8 @@ npm install
 npm run dev
 ```
 
+### rodando no: http://localhost/
+
 ## 📫 Usuário com permissão
 
 Para realizar o login utilize o email
